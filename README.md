@@ -11,8 +11,8 @@ git clone git@github.com:CHITJOSH/crypten.git
 
 pip install crypten
 
-# After installing the crypten library we can run the pythons files.
+# After installing the crypten library we can run the python files.
+# Tutorial 1-7 are tested by us and can be run locally.
 
 
-# Data
-# present in the data/MNIST/raw
+# Data present in the data/MNIST/raw
